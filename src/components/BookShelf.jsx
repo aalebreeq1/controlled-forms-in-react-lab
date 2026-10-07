@@ -44,6 +44,7 @@ function BookShelf() {
                                     <h3>Title: {book.title}</h3>
                                     <p>Author: {book.author}</p>
                                 </div>
+                                
                             )
                         })
                     }</div>
